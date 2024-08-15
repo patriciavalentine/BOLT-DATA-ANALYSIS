@@ -360,11 +360,11 @@ SELECT * FROM `bolt operations dataset`.combined_data;
 
 You can view all the Tableau Visualizations [here!](https://public.tableau.com/views/BoltRideAnalytics/DASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Tableau Dashboard Capture](https://github.com/user-attachments/assets/dd449550-da29-4285-9d6f-188f6d3248a0)
-
 In the Tableau dashboard,
 
 **I selected a combination of KPIs and charts that provide a comprehensive view of the key performance indicators and critical operational metrics.**
+
+![Tableau Dashboard Capture](https://github.com/user-attachments/assets/dd449550-da29-4285-9d6f-188f6d3248a0)
 
 The KPIs — *total revenue, total distance covered, total rides, total days, and total amount of tips received* — serve as fundamental metrics that give an immediate understanding of overall performance. These KPIs are crucial for quickly assessing the effectiveness of operations and revenue generation.
 
