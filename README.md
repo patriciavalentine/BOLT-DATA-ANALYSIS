@@ -1,13 +1,19 @@
 # BOLT RIDE ANALYSIS
 
-## Overview
+### Project Overview
 
-*This is a project focused on analyzing a Kaggle dataset on the operations of a Bolt ride, over two months.*
+*This is a project focused on analyzing the operations of a Bolt Ride, over a period of two months.*
 
 ![yellow-black-sign-taxi-placed-top-car-night](https://github.com/user-attachments/assets/883c4474-1304-42bf-b0d8-a7841e6d3763)
 
-I used MySQL for data cleaning, formatting, and basic analysis, followed by Tableau for visualizing key metrics like revenue, peak hours, and payment preferences.
+### Source of Data
+- Kaggle
 
+### Tools Used
+- **MySQL** - for data cleaning, formatting, and basic analysis.
+- **Tableau** - for visualizing key metrics like revenue, peak hours, and payment preferences.
+
+### Key Inquiry Questions
 The key questions the project sought to answer regarding the specific bolt ride operations are:
 1. What are the peak and off-peak hours for Bolt rides?
 2. Which pickup locations are the most popular?
