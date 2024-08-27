@@ -9,7 +9,7 @@
 ### Source of Data
 - Kaggle
 
-### ⚒️ Tools Used
+### Tools Used
 - **MySQL** - for data cleaning, formatting, and basic analysis.
 - **Tableau** - for visualizing key metrics like revenue, peak hours, and payment preferences.
 
@@ -19,6 +19,9 @@ The key questions the project sought to answer regarding the specific bolt ride 
 2. Which pickup locations are the most popular?
 3. How does revenue vary across different days, and what trends can be observed over time?
 
+
+💻
+# THE PROCESS
 ## Table of Content
 - [Data Processing](#data-processing)
 - [Data Cleaning](#data-cleaning)
