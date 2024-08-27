@@ -1,6 +1,6 @@
 # BOLT RIDE ANALYSIS
 
-### Project Overview
+## 📊 Project Overview
 
 *This is a project focused on analyzing the operations of a Bolt Ride, over a period of two months.*
 
@@ -9,7 +9,7 @@
 ### Source of Data
 - Kaggle
 
-### Tools Used
+### ⚒️ Tools Used
 - **MySQL** - for data cleaning, formatting, and basic analysis.
 - **Tableau** - for visualizing key metrics like revenue, peak hours, and payment preferences.
 
