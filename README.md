@@ -19,7 +19,6 @@ The key questions the project sought to answer regarding the specific bolt ride 
 2. Which pickup locations are the most popular?
 3. How does revenue vary across different days, and what trends can be observed over time?
 
-
 # THE PROCESS
 ## Table of Content
 - [Data Processing](#data-processing)
