@@ -14,16 +14,25 @@ Key insights were extracted through detailed analysis and subsequently visualize
 - **MySQL** - for data cleaning, formatting, and basic analysis.
 - **Tableau** - for visualizing key metrics like revenue, peak hours, and payment preferences.
 
-### Key Inquiry Questions
+## Key Inquiry Questions
 The project aimed to address the following operational questions regarding Bolt ride services:
 1. What are the peak and off-peak hours for Bolt rides?
 2. Which pickup locations are the most frequented?
 3. How does revenue distribution vary by day, and what temporal trends can be identified?
 
-### 📑 Insights
+## 📑 Insights
 - Analysis revealed that peak ride activity occurs around 10 a.m., while off-peak hours are observed at approximately 9 p.m.
 - The most frequented pickup locations included the Central Business District (CBD) of Nairobi, Jomo Kenyatta International Airport (JKIA), and Donholm.
 - In January, revenue peaked at around 3 p.m. and 11 p.m., while the lowest revenue was recorded at 2 p.m. and 8 p.m. In February, revenue was highest at 12 p.m. and 1 a.m., with the lowest revenue observed at 1 p.m.
+
+...and several others as shown in the [Tableau Dashboard](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS/blob/main/Tableau%20Dashboard%20Capture.PNG)!
+
+## 📂 Files
+1. [Raw January Data](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS/blob/main/Bolt%20Dataset%20for%20January.csv)
+2. [Raw February Data](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS/blob/main/Bolt%20Dataset%20for%20February.csv)
+3. [Combined Cleaned Data](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS/blob/main/Bolt%20Combined%20Data.csv)
+4. [MySQL Queries & Analysis](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS/blob/main/Bolt%20Operations%20Dataset.sql)
+5. [Tableau Visualizations](https://public.tableau.com/views/BoltRideAnalytics/DASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 # THE PROCESS
 
