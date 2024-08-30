@@ -1,32 +1,41 @@
-# BOLT RIDE ANALYSIS
+# 📊 BOLT RIDE ANALYSIS
 
-## 📊 Project Overview
+## Project Overview
 
-*This is a project focused on analyzing the operations of a Bolt Ride, over a period of two months.*
+This project involves a comprehensive analysis of Bolt Ride operations, utilizing data from two tables representing activities in January and February.
+The dataset encompasses various operational metrics, including Order Time, Pickup Address, Ride Price, Booking Fee, Tip, Payment Method, Payment Time, Distance, and State, among others. 
 
-![yellow-black-sign-taxi-placed-top-car-night](https://github.com/user-attachments/assets/883c4474-1304-42bf-b0d8-a7841e6d3763)
+Key insights were extracted through detailed analysis and subsequently visualized using a range of charts. These visualizations were then consolidated into an interactive dashboard to facilitate data-driven decision-making.
 
 ### Source of Data
-- Kaggle
+- Kaggle.
 
 ### Tools Used
 - **MySQL** - for data cleaning, formatting, and basic analysis.
 - **Tableau** - for visualizing key metrics like revenue, peak hours, and payment preferences.
 
 ### Key Inquiry Questions
-The key questions the project sought to answer regarding the specific bolt ride operations are:
+The project aimed to address the following operational questions regarding Bolt ride services:
 1. What are the peak and off-peak hours for Bolt rides?
-2. Which pickup locations are the most popular?
-3. How does revenue vary across different days, and what trends can be observed over time?
+2. Which pickup locations are the most frequented?
+3. How does revenue distribution vary by day, and what temporal trends can be identified?
+
+### 📑 Insights
+- Analysis revealed that peak ride activity occurs around 10 a.m., while off-peak hours are observed at approximately 9 p.m.
+- The most frequented pickup locations included the Central Business District (CBD) of Nairobi, Jomo Kenyatta International Airport (JKIA), and Donholm.
+- In January, revenue peaked at around 3 p.m. and 11 p.m., while the lowest revenue was recorded at 2 p.m. and 8 p.m. In February, revenue was highest at 12 p.m. and 1 a.m., with the lowest revenue observed at 1 p.m.
 
 # THE PROCESS
+
+![yellow-black-sign-taxi-placed-top-car-night](https://github.com/user-attachments/assets/883c4474-1304-42bf-b0d8-a7841e6d3763)
+
 ## Table of Content
 - [Data Processing](#data-processing)
 - [Data Cleaning](#data-cleaning)
 - [Basic Data Analysis](#basic-data-analysis)
 - [Tableau Visualizations](#tableau-visualizations)
 
-### Data Processing
+### DATA PROCESSING
 - Sample Data:
 
 I started by viewing the first 10 rows of data from both the January and February 2023 tables to get a quick look at what I was working with.
@@ -96,7 +105,7 @@ GROUP BY 1, 2
 HAVING COUNT(*) > 1;
 ```
 
-### Data Cleaning:
+### DATA CLEANING:
 - Removing Irrelevant Columns:
 
 I removed columns like Cancellation fee, currency, toll fee, and state from both tables as they were not necessary for my analysis.
@@ -182,7 +191,7 @@ DROP COLUMN `Payment time`;
 SET SQL_SAFE_UPDATES = 1;
 ```
 
-### Basic Data Analysis:
+### BASIC DATA ANALYSIS:
 - Revenue Analysis:
 
 I calculated the total revenue by payment method for each month, as well as the total revenue per day.
@@ -376,15 +385,13 @@ The KPIs — *total revenue, total distance covered, total rides, total days, an
 
 For the visualizations, I used:
 
-- Horizontal bar graphs to display the top 5 peak and off-peak hours, which are critical for understanding demand patterns and optimizing resource allocation.
+- Horizontal **bar graphs** to display the top 5 peak and off-peak hours, which are critical for understanding demand patterns and optimizing resource allocation.
 
-- A histogram of revenue by payment method that offered insights into customer preferences, aiding in strategic decision-making related to payment processing.
+- A **histogram** of revenue by payment method that offered insights into customer preferences, aiding in strategic decision-making related to payment processing.
 
-- A treemap showing the top 5 popular pickup locations highlights key areas of demand, which is essential for targeted marketing and operational focus.
+- A **treemap** showing the top 5 popular pickup locations highlights key areas of demand, which is essential for targeted marketing and operational focus.
 
-- Line graphs for revenue growth over time that provided a clear view of financial performance trends, which is invaluable for forecasting and strategic planning.
+- **Line graphs** for revenue growth over time that provided a clear view of financial performance trends, which is invaluable for forecasting and strategic planning.
 
-**Together, these steps forms a cohesive process demonstrating my ability to transform raw data into meaningful, actionable insights.**
-
-## Thank You 😄 !
-
+## THE END.
+### Thank you!
