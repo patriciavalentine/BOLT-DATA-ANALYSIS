@@ -23,7 +23,8 @@ The project aimed to address the following operational questions regarding Bolt 
 ## 📑 Insights
 - Analysis revealed that peak ride activity occurs around 10 a.m., while off-peak hours are observed at approximately 9 p.m.
 - The most frequented pickup locations included the Central Business District (CBD) of Nairobi, Jomo Kenyatta International Airport (JKIA), and Donholm.
-- In January, revenue peaked at around 3 p.m. and 11 p.m., while the lowest revenue was recorded at 2 p.m. and 8 p.m. In February, revenue was highest at 12 p.m. and 1 a.m., with the lowest revenue observed at 1 p.m.
+- In January, the driver's revenue peaked at over KShs 10,000, while the lowest recorded revenue was less than KShs 1,000. In February, the highest revenue surpassed KShs 12,000, while the lowest revenue was approximately KShs 2,500.
+- Analysis also revealed that the rides resulted in no tips for drivers, indicating a potential issue with customer satisfaction or service perception.
 
 ...and several others as shown in the [Tableau Dashboard](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS/blob/main/Tableau%20Dashboard%20Capture.PNG)!
 
