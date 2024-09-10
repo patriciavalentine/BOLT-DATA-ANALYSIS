@@ -14,6 +14,13 @@ Key insights were extracted through detailed analysis and subsequently visualize
 - **MySQL** - for data cleaning, formatting, and basic analysis.
 - **Tableau** - for visualizing key metrics like revenue, peak hours, and payment preferences.
 
+## 📂 Files
+1. [Raw January Data](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS/blob/main/Bolt%20Dataset%20for%20January.csv)
+2. [Raw February Data](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS/blob/main/Bolt%20Dataset%20for%20February.csv)
+3. [Combined Cleaned Data](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS/blob/main/Bolt%20Combined%20Data.csv)
+4. [MySQL Queries & Analysis](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS/blob/main/Bolt%20Operations%20Dataset.sql)
+5. [Tableau Visualizations](https://public.tableau.com/views/BoltRideAnalytics/DASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Key Inquiry Questions
 The project aimed to address the following operational questions regarding Bolt ride services:
 1. What are the peak and off-peak hours for Bolt rides?
@@ -33,13 +40,6 @@ The project aimed to address the following operational questions regarding Bolt 
 2. Utilize High-Demand Locations: Drivers should also focus on operating in the most frequented pickup locations, such as the Central Business District (CBD), and Jomo Kenyatta International Airport (JKIA). Positioning themselves strategically in these areas during peak times can increase ride requests and reduce wait times.
 3. Enhance Customer Engagement and Service Quality: to improve the likelihood of receiving tips, drivers should focus on delivering exceptional service by: greeting and engaging passengers in friendly and light-hearted conversations, maintaining cleanliness, providing comfort: Offering amenities such as bottled water or adjusting the temperature to passenger preferences can enhance comfort during the ride.
 4. Increase Ride Availability and Engagement: To maximize revenue, the driver should focus on increasing ride availability by aiming to drive during peak demand hours and avoiding taking days off when ride requests are likely to be high. The driver could also ensure they stay actively engaged with the app to accept ride requests promptly.
-
-## 📂 Files
-1. [Raw January Data](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS/blob/main/Bolt%20Dataset%20for%20January.csv)
-2. [Raw February Data](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS/blob/main/Bolt%20Dataset%20for%20February.csv)
-3. [Combined Cleaned Data](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS/blob/main/Bolt%20Combined%20Data.csv)
-4. [MySQL Queries & Analysis](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS/blob/main/Bolt%20Operations%20Dataset.sql)
-5. [Tableau Visualizations](https://public.tableau.com/views/BoltRideAnalytics/DASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 # THE PROCESS
 
