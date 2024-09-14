@@ -1,5 +1,4 @@
 # 📊 BOLT RIDE ANALYSIS
-
 ## Project Overview
 
 This project involves a comprehensive analysis of Bolt Ride operations, utilizing data from two tables representing activities in January and February.
