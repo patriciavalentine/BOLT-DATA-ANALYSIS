@@ -1,6 +1,5 @@
 # 📊 BOLT RIDE ANALYSIS
 ## Project Overview
-
 This project involves a comprehensive analysis of Bolt Ride operations, utilizing data from two tables representing activities in January and February.
 The dataset encompasses various operational metrics, including Order Time, Pickup Address, Ride Price, Booking Fee, Tip, Payment Method, Payment Time, Distance, and State, among others. 
 
