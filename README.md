@@ -43,7 +43,7 @@ The project aimed to address the following operational questions regarding Bolt 
 
 ![yellow-black-sign-taxi-placed-top-car-night](https://github.com/user-attachments/assets/883c4474-1304-42bf-b0d8-a7841e6d3763)
 
-## Table of Content
+## 📖 Table of Content
 - [Data Processing](#data-processing)
 - [Data Cleaning](#data-cleaning)
 - [Basic Data Analysis](#basic-data-analysis)
