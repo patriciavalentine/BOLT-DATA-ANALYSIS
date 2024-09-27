@@ -397,7 +397,7 @@ In the Tableau dashboard,
 
 The KPIs — *total revenue, total distance covered, total rides, total days, and total amount of tips received* — serve as fundamental metrics that give an immediate understanding of overall performance. These KPIs are crucial for quickly assessing the effectiveness of operations and revenue generation.
 
-For the visualizations, I used:
+> For the visualizations, I used:
 
 - Horizontal **bar graphs** to display the top 5 peak and off-peak hours, which are critical for understanding demand patterns and optimizing resource allocation.
 
