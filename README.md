@@ -39,7 +39,7 @@ The project aimed to address the following operational questions regarding Bolt 
 3. Enhance Customer Engagement and Service Quality: to improve the likelihood of receiving tips, drivers should focus on delivering exceptional service by: greeting and engaging passengers in friendly and light-hearted conversations, maintaining cleanliness, providing comfort: Offering amenities such as bottled water or adjusting the temperature to passenger preferences can enhance comfort during the ride.
 4. Increase Ride Availability and Engagement: To maximize revenue, the driver should focus on increasing ride availability by aiming to drive during peak demand hours and avoiding taking days off when ride requests are likely to be high. The driver could also ensure they stay actively engaged with the app to accept ride requests promptly.
 
-# THE PROCESS
+# THE 📉 PROCESS
 
 ![yellow-black-sign-taxi-placed-top-car-night](https://github.com/user-attachments/assets/883c4474-1304-42bf-b0d8-a7841e6d3763)
 
